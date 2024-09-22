@@ -181,3 +181,5 @@ while running:
     player(playerX, playerY)
     show_score(textX, testY)
     pygame.display.update()
+
+    
